@@ -1,0 +1,53 @@
+#bounty configuration
+bounty-enabled: true
+
+reward-by-percent: true
+
+reward-percent: 10
+
+random-reward: false
+
+random-min: 500
+
+random-max: 1500
+
+killReward: 500
+
+bt-prefix: "&7[&bVérdíj&7]"
+
+victim: "&eMeghaltál &4%killer% &ejátékos által, és vesztettél &a%money% &adollárt&e."
+
+killer: "&eMeggyilkoltad &4%victim% &ejátékost, és kaptál &a%money% &adollárt&e."
+
+world: "world"
+
+
+#lifeguard configuration
+lg-prefix: "&6[&bÉletmentö&6]"
+
+name: "&8[&cMentörúd&8]"
+
+lore: "&5Ez a tárgy képes megmenteni a többi tárgyaidat!"
+
+savemessage: "&aAz életmentö eszköz megmentette a tárgyaid, de egy ilyen eszközt elvesztettél!"
+
+#void configuration
+void-enabled: true
+
+void-prefix: "&5[&bVoid&5]"
+
+void-savemessage: "&aLezuhantál, de a tárgyaid megmaradtak, mivel volt életmentö eszközöd!"
+
+void-notool-message: "&4Lezuhantál"
+
+lg-hookup-state: true
+
+x:
+
+y:
+
+z:
+
+pitch:
+
+yaw:

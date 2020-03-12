@@ -1,0 +1,13 @@
+name: GoldenHub-Core
+version: 1.3
+main: com.stimonz.pvpsystem.Main
+author: Stimonz
+commands:
+  ghub:
+    description: Alapertelmezett parancs 'GoldenHub-PvP'
+  goldenhub:
+    description: Alapertelmezett parancs 'GoldenHub-PvP'
+  aldas:
+    description: Aldas command. Boosters
+  term:
+    description: Reload config.
