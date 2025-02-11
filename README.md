@@ -1,5 +1,5 @@
 # goldenhub-core
-This is a Minecraft plugin, written on top of the Bukkit API, mainly used for my own Minecraft servers.
+This is a Minecraft plugin, written on top of the Bukkit API.
 The name of the plugin comes from one of the servers this plugin was used, where I often contributed as plugin developer. (GoldenHub SkyPVP server, now defunctional.)
 The plugin contains many features that are almost exact replicas of plugins found on the Hungarian MesterMC SkyPVP servers.
 Some of the in-game messages are written in Hungarian.
